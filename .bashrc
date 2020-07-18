@@ -137,5 +137,6 @@ alias .....='cd ../../../..'
 # custom aliases tri
 alias bashref='source ~/.bashrc'
 alias bashconf='vi ~/.bashrc'
+alias dotf='cd ~/docs/dotfiles/'
 alias softup='sudo apt-get update -y && sudo apt-get upgrade -y'
 alias trr='transmission-remote '

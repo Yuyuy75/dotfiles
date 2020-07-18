@@ -1,6 +1,7 @@
 inoremap jk <esc>
 set expandtab
 syntax on
+set undofile
 set nocompatible
 set number relativenumber
 set tabstop=4
